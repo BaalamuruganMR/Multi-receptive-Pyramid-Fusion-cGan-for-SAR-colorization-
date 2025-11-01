@@ -34,6 +34,6 @@ Training utilizes **paired SAR–optical datasets** with a **composite loss func
 Due to size constraints, the dataset is hosted externally.  
 You can download it from the following link:
 
-🔗[ [Download Dataset (Google Drive)](https://drive.google.com/your-link-here)](https://www.kaggle.com/datasets/anjaliikakde/paired-sar-optical-dataset-16k-images)
+🔗https://www.kaggle.com/datasets/anjaliikakde/paired-sar-optical-dataset-16k-images
 
 After downloading, place the dataset folder inside the project directory:
